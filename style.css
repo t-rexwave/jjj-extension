@@ -1,0 +1,13 @@
+.EpisodeAudioPlayer_container__dEc4Z {
+
+}
+
+main > :first-child > :first-child {
+    position: sticky;
+    top: 0px;
+    z-index: 1000;
+}
+
+.highlight {
+    background-color: yellow;
+}
